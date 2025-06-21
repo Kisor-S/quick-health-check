@@ -28,8 +28,8 @@ A lightweight, Bash-based system health check script to monitor critical system 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/linux-health-check.git
-   cd linux-health-check
+   git clone https://github.com/Kisor-S/quick-health-check.git
+   cd quick-health-check
 
 2. **Make the script executable**:
 
